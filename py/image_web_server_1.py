@@ -1,3 +1,4 @@
+sub link sudo he second in and out team. 
 # T81-558: Applications of Deep Neural Networks
 # Module 13: Advanced/Other Topics
 # Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/), McKelvey School of Engineering, [Washington University in St. Louis](https://engineering.wustl.edu/Programs/Pages/default.aspx)
